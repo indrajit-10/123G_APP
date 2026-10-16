@@ -1,0 +1,198 @@
+<!-- Paste these <url> blocks into sitemap.xml before the closing </urlset>. -->
+<!-- Purely additive: no existing entry is modified or removed. -->
+
+<!-- ===== UPCOMING MAJOR EVENTS (added 2026-10-16) ===== -->
+
+<!-- Halloween - Oct 31, 2026 (15 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/</loc> 
+					  <priority>0.9</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/at_work/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/family/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/for_lovers/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/friendship_n_love/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/fun/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/happy_birthday/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/haunted_houses/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/horror/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/images/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/jack_o_lanterns/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/messages/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/missing_you/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/party/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/quotes/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/specials/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/thank_you/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/trick_or_treat/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/wishes/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+					  <url>
+					  <loc>https://www.123greetings.com/events/halloween/witches/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- Veterans Day - Nov 11, 2026 (26 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/veterans_day/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- Children's Day - Nov 14, 2026 (29 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/childrens_day/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- Thanksgiving - Nov 26, 2026 (41 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/thanksgiving/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- Black Friday - Nov 27, 2026 (42 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/black_friday/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- Hanukkah - Dec 4-12, 2026 (49 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/hanukkah/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- Christmas - Dec 25, 2026 (70 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/christmas/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- Kwanzaa - Dec 26, 2026 (71 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/kwanzaa/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- New Year - Jan 1, 2027 (77 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/new_year/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
+
+<!-- Valentine's Day - Feb 14, 2027 (121 days out) -->
+					  <url>
+					  <loc>https://www.123greetings.com/events/valentines_day/</loc> 
+					  <priority>0.8</priority> 
+					  <lastmod>2026-10-16T09:45:01-08:00</lastmod> 
+					  <changefreq>daily</changefreq> 
+					  </url>
